@@ -1,0 +1,6 @@
+name: descartes
+description: "Imprecision-tolerant computational geometry for Wren"
+author: Chance Snow <git@chancesnow.me>
+license: MIT
+tests: src/**/*.spec.wren
+devDependencies: [wren-assert]
