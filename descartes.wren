@@ -1,5 +1,10 @@
+/// Imprecision-tolerant computational geometry.
+///
 /// Authors: Chance Snow
-/// Copyright: Copyright © 2021 Chance Snow. All rights reserved.
+/// Copyright:
+/// A port of https://github.com/aeplay/descartes, under the MIT License:
+/// Copyright © 2018 Anselm Eickhoff. All rights reserved.
+/// Copyright © 2021 Chance Snow
 /// License: MIT License
 /// See: https://github.com/chances/descartes-d
 
